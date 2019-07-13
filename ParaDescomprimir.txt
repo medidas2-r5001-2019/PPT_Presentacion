@@ -1,1 +1,0 @@
-Abra el archivo Adaptador de guia ondas para banda Ku.zip con programa de compresion (Una opción es utilizar el programa 7zip). Luego podra extraer sin problemas.
